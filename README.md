@@ -15,5 +15,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Link on gh-pages
+See [folders-tree](https://aleksey-dev-crt.github.io/folders-tree/).
